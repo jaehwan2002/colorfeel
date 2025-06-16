@@ -1,16 +1,37 @@
-# colorfeel
+# ColorFeel
 
-A new Flutter project.
+Flutter로 제작한 감정 기록 앱입니다.  
+매일의 감정을 색과 이모지, 간단한 문구로 기록하고, 히스토리와 통계를 통해 감정 변화를 시각적으로 확인할 수 있습니다.
 
-## Getting Started
+## 📱 주요 기능
 
-This project is a starting point for a Flutter application.
+- 하루하루의 기분을 색과 이모지로 기록
+- 메모 추가 기능으로 감정 + 텍스트 기록 가능
+- 감정 히스토리: 날짜별 감정과 메모 확인
+- 감정 통계: 주간/월간 감정 분포 시각화
+- 감정 캘린더: 날짜 아래 감정 색상 표시
+- 다크모드 지원
+- 매일 힘이 되는 문구 제공
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 개발 환경
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter & Dart 기반
+- **Xcode를 통한 iOS 시뮬레이터 실행 가능**
+- iOS 기반 기능 테스트 완료
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 실행 화면
+
+> 앱 실행화면은 발표 자료(PPT)를 참고해주세요.
+
+## 📂 포함 파일
+
+- 전체 소스 코드 (`lib/`, `ios/` 등)
+- 발표 자료 `ColorFeel.pptx`
+- `README.md` (앱 소개 문서)
+
+## 🔗 프로젝트 요약
+
+이 프로젝트는 감정을 하루에 한 번 기록함으로써,  
+사용자가 자신을 돌아보고 감정의 흐름을 이해하도록 돕는 **iOS 감정 다이어리 앱**입니다.
+
+> Created by 배재환 (2021145035)
